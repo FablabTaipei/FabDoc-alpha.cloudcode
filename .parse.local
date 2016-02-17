@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "FabDoc-alpha": {
+      "applicationId": "RU4BgvMuXnlkHDle7VH9EKMapirGjza9Gh3ZgrAR"
+    },
+    "_default": {
+      "link": "FabDoc-alpha"
+    }
+  }
+}
